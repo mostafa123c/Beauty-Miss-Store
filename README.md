@@ -47,29 +47,33 @@ Beauty-Miss is an e-commerce platform built with Laravel, focused on selling ski
 
 #### Home Page
 
-![Home Page](Pictures/screencapture-127-0-0-1-8000-2025-02-01-14_56_36.png)
+![Home Page](Pictures/home.png)
 
 #### Products Page
 
-![Products](Pictures/screencapture-127-0-0-1-8000-ar-products-2025-02-01-14_59_57.png)
+![Products](Pictures/products.png)
+
+#### Packages Page
+
+![Products](Pictures/packages.png)
 
 #### Sngle Product
 
-![Single Product](Pictures/screencapture-127-0-0-1-8000-en-products-body-lotion-2025-02-01-15_05_35.png)
+![Single Product](Pictures/single-product.png)
 
 #### Shopping Cart
 
-![Cart](Pictures/screencapture-127-0-0-1-8000-en-cart-2025-02-01-15_05_58.png)
+![Cart](Pictures/cart.png)
 _User-friendly shopping cart interface_
 
 #### Checkout
 
-![Checkout](Pictures/screencapture-127-0-0-1-8000-en-checkout-2025-02-01-15_07_02.png)
+![Checkout](Pictures/checkout.png)
 _Streamlined checkout process_
 
 #### Profile
 
-![Profile](Pictures/screencapture-127-0-0-1-8000-en-account-2025-02-01-15_03_53.png)
+![Profile](Pictures/profile.png)
 
 ### Admin Dashboard
 
