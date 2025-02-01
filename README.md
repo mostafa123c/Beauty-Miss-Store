@@ -9,13 +9,15 @@ Beauty-Miss is an e-commerce platform built with Laravel, focused on selling ski
   - User registration and login
   - Password reset
   - User profiles
+  - Tracking Orders
+  - Multi-Language Support
 
 - **Shopping Features**
   - Browse skin care products
   - View product details
   - Shopping cart functionality
   - Checkout process
-  - Real-time product search
+  - products and packages search
 
 - **Product Management**
   - Product categories
@@ -24,7 +26,7 @@ Beauty-Miss is an e-commerce platform built with Laravel, focused on selling ski
 
 ### Admin Dashboard
 - **Management Features**
-  - Product management
+  - Products and packages management
   - Order management
   - User management
   - Basic statistics
@@ -37,8 +39,7 @@ Beauty-Miss is an e-commerce platform built with Laravel, focused on selling ski
 - **Frontend:** HTML, CSS, JavaScript
 - **Additional:** Bootstrap, jQuery
 
-## ⚙️ Installation
+## 📸 Project Screenshots
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/beauty-miss.git
+
+
